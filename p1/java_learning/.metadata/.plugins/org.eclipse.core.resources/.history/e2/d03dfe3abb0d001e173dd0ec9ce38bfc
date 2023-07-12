@@ -1,0 +1,27 @@
+package com.cisco.demo;
+
+public class Variable {
+	public static void main(String[] args) {
+		//write your code here 
+		System.out.println("Hello World");
+		/* Variables
+		  Water- Bucket
+		  Masala - box
+		  Lunch - LunchBox
+		  In Java: 
+		  Variables are containers which store data values
+		  String, int, float,char, boolean
+		  How to declare variable :
+		  syntax - <dataType> <variablesname> = <values>;
+		 */
+		String name = "Harsa";
+		System.out.println(name);
+		int a = 45;
+		float b = 45.5f;
+		boolean isAdult = false;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(isAdult);
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.cisco.demo;
+
+public class Operators {
+	public static void main(String[] args) {
+		/*Operators in java
+		 operand, operator, Operand = Result
+		 4        +           8     = 12
+		 Types of operators in java 
+		 Arithmetic operator
+		 Assignment Operator
+		 logical operator
+		 comparison operator 
+		 */
+		int num1 = 25, num2 = 35;
+		System.out.print("the value of num1 + num2 is ");
+		System.out.println(num1 + num2);
+	}
+	
+}
